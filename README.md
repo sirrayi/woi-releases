@@ -19,7 +19,7 @@ Requires a Mac with Apple Silicon running macOS 13 Ventura or later.
 
 ## Install
 
-1. Download `woi-1.0.0.zip` from the [latest release](https://github.com/sirrayi/woi-releases/releases/latest)
+1. Download `woi-1.0.1.zip` from the [latest release](https://github.com/sirrayi/woi-releases/releases/latest)
    and double-click it to unzip.
 2. Drag **woi.app** into your **Applications** folder.
 3. Open woi. Because woi isn't distributed through the App Store, macOS asks you to
